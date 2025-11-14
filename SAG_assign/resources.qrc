@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix=":/plugins/sag_assign/icon.png'" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

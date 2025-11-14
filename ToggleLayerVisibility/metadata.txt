@@ -1,0 +1,9 @@
+[general]
+name=ToggleLayerVisibility
+qgisMinimumVersion=3.0
+description=Toggle visibility of all layers except the current layer
+author=Your Name
+email=you@example.com
+version=1.0
+category=Layers
+icon=icon.png
